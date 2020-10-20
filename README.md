@@ -5,7 +5,6 @@ This is a repository for the Portfolio Project
 * HTML5
 * CSS3
 * JavaScript
-* jQuery
 
 ### w3 Validation for index.html
 ![w3validator](https://github.com/elegktara37/Coursera-webdesign-capstone/blob/main/Validator/w3c%20validate.png)
