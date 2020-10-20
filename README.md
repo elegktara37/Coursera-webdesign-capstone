@@ -8,4 +8,4 @@ This is a repository for the Portfolio Project
 * jQuery
 
 ### w3 Validation for index.html
-![w3validator](https://github.com/NohaaAa/Coursera-Web-Design-for-Everybody-Capstone-Project/blob/master/Validations/w3-validator.png)
+![w3validator](https://github.com/elegktara37/Coursera-webdesign-capstone/blob/main/Validator/w3c%20validate.png)
