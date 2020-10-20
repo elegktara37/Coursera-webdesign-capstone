@@ -1,6 +1,9 @@
 # Coursera-Web-Design-for-Everybody-Capstone-Project
 This is a repository for the Portfolio Project
 
+### Visti site
+https://elegktara37.github.io/Coursera-webdesign-capstone/index.html
+
 ### Build With: 
 * HTML5
 * CSS3
